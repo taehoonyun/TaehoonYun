@@ -1,7 +1,7 @@
 # *Hi I'm Taehoon* 👋
-### I'm from South Korea and I'm living in Jackson MS now. I'm a student in Belhaven University now.
-### I'm learning Javascript, React and Node.js and it is challenging for me but it's also much fun!!
-### recently I had a team project in the school and I really enjoyed working together as a team. If I have a chance again, I would like to join it.
+### I'm from South Korea and I'm living in Jackson,MS,now. I'm a student at Belhaven University now.
+### I'm learning Javascript, React and Node.js and it is challenging for me but, it's also much fun!!
+### Recently I had a team project in the school and I really enjoyed working together as a team. If I have a chance again, I would like to join it.
 
 
 - 🌱 I’m currently learning Node.js, Javascript, React
