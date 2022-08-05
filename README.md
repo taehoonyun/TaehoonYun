@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 -->
 
 <img alt="Python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=#3776AB&logoColor=white"/>
+<img alt="HTML" src ="https://img.shields.io/badge/HTML-orange.svg?&style=for-the-badge&logo=#E34F26&logoColor=white"/>
+<img alt="CSS" src ="https://img.shields.io/badge/CSS-green.svg?&style=for-the-badge&logo=#1572B6&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-3776AB.svg?&style=for-the-badge&logo=#F7DF1E&logoColor=white"/>
