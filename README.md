@@ -1,7 +1,7 @@
-*### Hi I'm Taehoon* 👋
-##I'm a student in Belhaven University now, and I'm staying in Jackson MS.
-##I'm learning Javascript, React and Node.js and it is so much fun!!
-##recently I had a team project in the school and I really enjoyed working together as a team
+# *Hi I'm Taehoon* 👋
+### I'm a student in Belhaven University now, and I'm staying in Jackson MS.
+### I'm learning Javascript, React and Node.js and it is so much fun!!
+### recently I had a team project in the school and I really enjoyed working together as a team
 
 <!--
 **taehoonyun/TaehoonYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I just married! I'm a male by the way.
 -->
 <div>
-<img alt="Python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=#3776AB&logoColor=white"/>
-<img alt="HTML" src ="https://img.shields.io/badge/HTML-orange.svg?&style=for-the-badge&logo=#E34F26&logoColor=white"/>
-<img alt="CSS" src ="https://img.shields.io/badge/CSS-green.svg?&style=for-the-badge&logo=#1572B6&logoColor=white"/>
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-3776AB.svg?&style=for-the-badge&logo=#F7DF1E&logoColor=white"/>
+  <img alt="Python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=#3776AB&logoColor=white"/>
+  <img alt="HTML" src ="https://img.shields.io/badge/HTML-orange.svg?&style=for-the-badge&logo=#E34F26&logoColor=white"/>
+  <img alt="CSS" src ="https://img.shields.io/badge/CSS-green.svg?&style=for-the-badge&logo=#1572B6&logoColor=white"/>
+  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-3776AB.svg?&style=for-the-badge&logo=#F7DF1E&logoColor=white"/>
+  <img alt="React" src ="https://img.shields.io/badge/React-skyblue.svg?&style=for-the-badge&logo=#61DAFB&logoColor=white"/>
+  <img alt="Node.js" src ="https://img.shields.io/badge/Node-lightgreen.svg?&style=for-the-badge&logo=#339933&logoColor=white"/>
 </div>
