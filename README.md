@@ -19,4 +19,8 @@
   <img alt="Node.js" src ="https://img.shields.io/badge/Node-lightgreen.svg?&style=for-the-badge&logo=#339933&logoColor=white"/>
 </div>
 
+## I like connecting with different people, so if you want to say Hi!, I'd be happy to meet you more!
+[![name](link to image on GH)]([link to your URL](https://www.linkedin.com/in/taehoon-yun-567ba520b/))
+[I'm an inline-style link](https://www.instagram.com/taehoonii95/)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e2871136-8acc-401f-9a94-04540907f13d/deploy-status)](https://app.netlify.com/sites/omoon/deploys)
