@@ -1,5 +1,5 @@
 # *Hi I'm Taehoon* 👋
-### I'm from South Korea and I'm living in Jackson,MS,now. I'm a student at Belhaven University now.
+### I'm from South Korea and I'm living in Jackson, MS now. I recently graduated a University.
 ### I'm learning Javascript, React and Node.js and it is challenging for me but, it's also much fun!!
 ### I had a team project in the school and I really enjoyed working together as a team. If I have a chance again, I would like to join it.
 
