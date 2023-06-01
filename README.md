@@ -1,14 +1,11 @@
-# *Hi I'm Taehoon* 👋
-### I'm from South Korea and I'm living in Jackson, MS now. I recently graduated a University.
-### I'm learning Javascript, React and Node.js and it is challenging for me but, it's also much fun!!
-### I had a team project in the school and I really enjoyed working together as a team. If I have a chance again, I would like to join it.
+# *Hi I'm Taehoon*
+### Front-End Developer from South Korea
 
 
-- 🌱 I’m currently learning Node.js, Javascript, React
-- 🤔 I’m looking for help with Node.js and being Front-end Developer
+
+- 🌱 I’m currently learning Node.js, Javascript, and React
 - 📫 How to reach me: mnmn9069@gamil.com 
-- 😄 Pronouns:
-- ⚡ Fun fact: I just got married! I'm a male by the way.
+
 # I'm coding with
 <div>
   <img alt="Python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=#3776AB&logoColor=white"/>
