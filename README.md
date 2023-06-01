@@ -18,8 +18,4 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e2871136-8acc-401f-9a94-04540907f13d/deploy-status)](https://app.netlify.com/sites/omoon/deploys)
 
-## I like connecting with different people, so if you want to say Hi!, I'd be happy to meet you more!
-![Linkin](https://www.linkedin.com/in/taehoonyun/)
-![Instagram](https://www.instagram.com/taehoonii95/)
-
 
