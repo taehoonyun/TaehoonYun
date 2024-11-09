@@ -48,14 +48,6 @@ I'm a passionate **Full-Stack Developer** with a strong background in both front
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Taehoon's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/feed/)
 
