@@ -39,12 +39,12 @@ I'm a passionate **Full-Stack Developer** with a strong background in both front
 
 ---
 
-### 📸 Personal Projects
-
-**Photo Portfolio Website** *(Aug 2024 – Oct 2024)*  
+### 📸 Personal Projects  *(Aug 2024 – Oct 2024)* 
 - Built a responsive photo portfolio website using **Next.js** for seamless cross-device experience.
 - Integrated **Cloudinary** for scalable cloud storage and photo management.
 - Implemented features for uploading, deleting, and managing photos.
+  
+[![Vercel](https://img.shields.io/badge/-Photo%20Portfolio%20Website-05122A?style=flat&logo=photo&logoColor=white)](https://photoportfoliowebsite.vercel.app)
 
 ---
 
