@@ -1,21 +1,61 @@
-# *Hi, I'm Taehoon*
-### Front-End Developer from South Korea
+# Hello, I'm Taehoon Yun 👋
+I'm a passionate **Full-Stack Developer** with a strong background in both front-end and back-end development. With extensive experience in modernizing legacy systems, building web applications, and handling EDI connections, I bring a comprehensive approach to software solutions.
 
+---
 
+### 🔧 Tech Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 
-- 🌱 I’m currently learning Node.js, Javascript, and React
-- 📫 How to reach me: mnmn9069@gamil.com 
+---
 
-# I'm coding with
-<div>
-  <img alt="Python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=#3776AB&logoColor=white"/>
-  <img alt="HTML" src ="https://img.shields.io/badge/HTML-orange.svg?&style=for-the-badge&logo=#E34F26&logoColor=white"/>
-  <img alt="CSS" src ="https://img.shields.io/badge/CSS-green.svg?&style=for-the-badge&logo=#1572B6&logoColor=white"/>
-  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-3776AB.svg?&style=for-the-badge&logo=#F7DF1E&logoColor=white"/>
-  <img alt="React" src ="https://img.shields.io/badge/React-skyblue.svg?&style=for-the-badge&logo=#61DAFB&logoColor=white"/>
-  <img alt="Node.js" src ="https://img.shields.io/badge/Node-lightgreen.svg?&style=for-the-badge&logo=#339933&logoColor=white"/>
-</div>
+### 💼 Professional Experience
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e2871136-8acc-401f-9a94-04540907f13d/deploy-status)](https://app.netlify.com/sites/omoon/deploys)
+#### **Software Developer - Brainer Consultancy, Inc.**
+*Feb 2023 – Current*
 
+**Feb 2023 – Aug 2023**  
+- **MES Modernization**: Led the transformation of a 110-page Manufacturing Execution System (MES) to a web application, leveraging **ASP.NET Core** and **React.js**.
+- **Collaboration**: Worked with front-end and back-end teams to ensure a cohesive, user-friendly experience in the modernized system.
+- **Quality Assurance**: Conducted testing and debugging to improve system reliability.
+
+**Aug 2023 – Dec 2023**  
+- **GPS Tracking System**: Developed a GPS Tracking System using **TypeScript** and **Node.js** with real-time tracking functionality.
+- **SAP Integration**: Integrated SAP using OData for seamless data retrieval and processing.
+- **RESTful API Development**: Designed REST APIs to support location tracking.
+
+**Apr 2024 – Aug 2024**  
+- **EDI Monitoring System**: Built an EDI monitoring system with **TypeScript**, **Node.js**, and **PostgreSQL**.
+- **Error Tracking & Visualization**: Created dashboards for real-time monitoring of transmission statuses and error rates.
+- **Data Parsing**: Engineered a dynamic parser for multiple document formats, ensuring data integrity.
+
+**Jun 2023 – Present**  
+- **EDI Connection Management**: Manages EDI setups, configurations, and ongoing support for trading partners.
+- **EDI Map Development**: Creates and maintains EDI maps for business documents, such as purchase orders and invoices.
+
+---
+
+### 📸 Personal Projects
+
+**Photo Portfolio Website** *(Aug 2024 – Oct 2024)*  
+- Built a responsive photo portfolio website using **Next.js** for seamless cross-device experience.
+- Integrated **Cloudinary** for scalable cloud storage and photo management.
+- Implemented features for uploading, deleting, and managing photos.
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Taehoon's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/feed/)
 
