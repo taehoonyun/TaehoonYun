@@ -49,5 +49,5 @@ I'm a passionate **Full-Stack Developer** with a strong background in both front
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/feed/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/taehoonyun/))
 
